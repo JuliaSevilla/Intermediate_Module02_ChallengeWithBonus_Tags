@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<RevitAddIns>
+  <AddIn Type="Command">
+    <Text>Intermediate_Module02_ChallengeWithBonus_Tags - Command 1</Text>
+    <Description>Some description for Intermediate_Module02_ChallengeWithBonus_Tags</Description>
+    <Assembly>Intermediate_Module02_ChallengeWithBonus_Tags.dll</Assembly>
+    <FullClassName>Intermediate_Module02_ChallengeWithBonus_Tags.Command1</FullClassName>
+    <ClientId>6c46f105-0134-4dea-9f7d-e3cc3767e8e3</ClientId>
+    <VendorId>com.YOUR COMPANY NAME</VendorId>
+    <VendorDescription>YOUR COMPANY NAME, YOUR COMPANY URL</VendorDescription>
+  </AddIn>
+  <AddIn Type="Command">
+    <Text>Intermediate_Module02_ChallengeWithBonus_Tags - Command 2</Text>
+    <Description>Some description for Intermediate_Module02_ChallengeWithBonus_Tags</Description>
+    <Assembly>Intermediate_Module02_ChallengeWithBonus_Tags.dll</Assembly>
+    <FullClassName>Intermediate_Module02_ChallengeWithBonus_Tags.Command2</FullClassName>
+    <ClientId>f1263261-77ec-4a66-9720-c9baba3ba119</ClientId>
+    <VendorId>com.YOUR COMPANY NAME</VendorId>
+    <VendorDescription>YOUR COMPANY NAME, YOUR COMPANY URL</VendorDescription>
+  </AddIn>
+  <AddIn Type="Application">
+    <Name>Intermediate_Module02_ChallengeWithBonus_Tags</Name>
+    <Assembly>Intermediate_Module02_ChallengeWithBonus_Tags.dll</Assembly>
+    <FullClassName>Intermediate_Module02_ChallengeWithBonus_Tags.App</FullClassName>
+    <ClientId>65d82552-02e1-43a3-8f4c-79efa377faf7</ClientId>
+    <VendorId>com.YOUR COMPANY NAME</VendorId>
+    <VendorDescription>YOUR COMPANY NAME, YOUR COMPANY URL</VendorDescription>
+  </AddIn>
+</RevitAddIns>
